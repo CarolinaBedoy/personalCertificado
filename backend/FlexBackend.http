@@ -1,0 +1,6 @@
+@FlexBackend_HostAddress = http://localhost:5115
+
+GET {{FlexBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
